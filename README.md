@@ -21,7 +21,9 @@ Script that applies HeSuVi virtual surround to 7.1 input files.
 # Usage:
 You can use this script to:
 - Add a pre-virtualized 7.1 track to a movie to watch on a portable device or on the go.
-- Compare surround virtualization software, either [just the audio](https://airtable.com/shrTudzDGTsVR7p7p/tbloLjoZKWJDnLtTc), or [gameplay](https://share.vidyard.com/watch/RNK9HAzbAhD9funBsp6Emt?).
+- Compare surround virtualization software:
+  - [Audio](https://airtable.com/shrTudzDGTsVR7p7p/tbloLjoZKWJDnLtTc) ([Airtable](https://airtable.com/)) Recommended .OGG/OPUS audio format (Opus codec) and 128k bitrate.  
+  - [Video](https://share.vidyard.com/watch/RNK9HAzbAhD9funBsp6Emt?) ([Vidyard](https://www.vidyard.com/)) [Requires](https://knowledge.vidyard.com/hc/en-us/articles/360009999993-Videos-with-multiple-audio-tracks) .MP4 container, .M4A (AAC-LC) audio codec and H.264 video track. Also, avoid HRIRs with special characters like ssc_hù.wav.
 
 # Contact
 For more updates, troubleshooting or contribution, join the discussion at the [3D Game Audio Discord server](https://kutt.it/U3DAMChat).  
